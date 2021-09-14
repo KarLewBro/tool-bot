@@ -1,0 +1,7 @@
+const name = 'null';
+
+function null(msg, args) {
+
+}
+
+module.exports = { name, null }

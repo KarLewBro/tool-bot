@@ -1,0 +1,25 @@
+{
+  "name": "kraftmasters-toolbot",
+  "version": "0.0.1",
+  "description": "bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Karl",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kryosoul/kraftmaster-toolbot.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kryosoul/kraftmaster-toolbot/issues"
+  },
+  "homepage": "https://github.com/kryosoul/kraftmaster-toolbot#readme"
+}
